@@ -1,0 +1,1 @@
+body,html{margin:0}canvas{display:block}.teeth-box{position:absolute;top:0;left:0;background-color:#ffffffbf;padding:10px;display:flex;flex-direction:column;gap:5px;margin:55px 0 0;border-radius:5px;z-index:1}.teeth{background:none;border:none;cursor:pointer;transition:color .33s}.teeth:hover{color:gray}.teeth.hidden{color:red}
